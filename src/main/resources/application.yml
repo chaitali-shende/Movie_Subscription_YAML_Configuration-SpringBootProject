@@ -1,0 +1,33 @@
+server:
+  port: 9191
+
+subscription:
+  user-id: 9098
+  user-name: "Bob Turner"
+  plan: "Premium UHD"
+
+  watch-time-hours:
+    - 15
+    - 12
+    - 9
+    - 20
+
+  genres-preferred:
+    - Thriller
+    - Horror
+    - Comedy
+
+  active-devices:
+    - Mobile
+    - Laptop
+    - SmartTV
+
+  ratings:
+    Inception: 5
+    Conjuring: 4
+    Hera Pheri: 5
+    Tenet: 4
+
+  last-watched:
+    movie: "Dune"
+    duration: "2h 35m"
