@@ -131,7 +131,8 @@ subscription:
     movie: "Dune"
     duration: "2h 35m"
 
-    ---
+---
+
 
 # ▶️ How to Run the Project 
 - Open in Eclipse
@@ -207,15 +208,6 @@ Non-null property loading
 
 +-----------------------------+
 
-
-
-              1
-              
-              |
-              
-              |
-              
-              *
 
 +-----------------------------+
 
